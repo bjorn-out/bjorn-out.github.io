@@ -11,5 +11,5 @@ Want to get in touch? Send me an email at [b.g.out@uva.nl](mailto:b.g.out@uva.nl
     <dd>Information Science - University of Amsterdam, Amsterdam</dd>
     <dt>2013 - 2019</dt>
     <dd>Pre-University Education (VWO) - Jan van Egmond Lyceum, Purmerend</dd>
-    <dd>_Cum laude_</dd>
+    <dd>Profile Nature & Technology + Business Economics, cum laude</dd>
 </dl>
