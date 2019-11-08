@@ -1,9 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
-navigation_weight: 1
 ---
 
+# Contact
+Want to get in touch? Send me an email at [b.g.out@uva.nl](mailto:b.g.out@uva.nl).
 
